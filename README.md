@@ -35,6 +35,9 @@ The research attempts to identify the factors for a successful rocket landing. T
 ### Predictive Analytics
 * All models performed similarly on the test set. The decision tree model slightly outperformed when looking at .best_score_
 
+# Additional info
+* To view the notebooks, click [here](https://nbviewer.org/), copy and paste the link of the notebook you want to see, and that's it!
+
 # Methodology
 
 ## Data Collection - API
